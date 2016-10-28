@@ -12,7 +12,7 @@ title: this.me
 
 ## Current role I play in life
 - Lead Developer @[Flexisaf Edusoft](flexiaf.net).
-- Lead Organizer at [GDG JSIIT](gdg.jsiit.net)
+- Lead Organizer at [GDG JSIIT](www.jsiit.gdg.ng)
 
 > Favourite Zen 
 
