@@ -1,6 +1,6 @@
 ---
 layout: page
-title: this.me
+title: About
 ---
 
 

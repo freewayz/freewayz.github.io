@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            pitaside
 tagline:          'my thought on code'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Creativity isn't a function of man possessing knowledge; it is rather a function of knowledge possessing man'
 url:               http//freewayz.github.io
 baseurl:          ''
 
@@ -16,7 +16,7 @@ author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         5
+paginate:         3
 
 gems: [jekyll-paginate]
 # Custom vars
