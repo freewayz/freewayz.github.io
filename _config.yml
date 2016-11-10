@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -13,8 +13,8 @@ url:               http//freewayz.github.io
 baseurl:          ''
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Peter Edache'
+  url:            https://twitter.com/freewayz
 
 paginate:         3
 
@@ -23,5 +23,5 @@ gems: [jekyll-paginate]
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/lanyon
+  repo:           https://twitter.com/freewayz
 
