@@ -1,9 +1,12 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      rouge
 # Permalinks
 permalink:        pretty
-
+comments:
+   provider: disqus
+disqus: 
+   short_name: freewayz-github-io
 # Setup
 title:            pitaside
 tagline:          'my thought on code'
@@ -18,9 +21,24 @@ author:
 paginate:         3
 
 gems: [jekyll-paginate]
-# Custom vars
+
 version:          1.0.0
 
 github:
   repo:           https://github.com/freewayz
+social:
+  - icon:	twitter
+    url:	https://twitter.com/fr3wayz
+    desc: Twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+
+  - icon:	github
+    url:	https://github.com/freewayz
+    desc:	Find me on GitHub
+    share_url:
+    share_title:
+    share_link:
 
