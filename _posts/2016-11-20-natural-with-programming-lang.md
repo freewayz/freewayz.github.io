@@ -81,19 +81,19 @@ group of things (also know as collections of things).
 
 ```javascript
 var laptops  = ["Mac","HP", "Dell"]
-var numbers = [1,2,3,4,5]
+var numbers =  [1,2,3,4,5]
 ```
 
 ```python
 friends  = ["Peter","Mary", "Faiz"]
-website = ["github.com", "facebook.com", "meduim.com"]
+website =  ["github.com", "facebook.com", "meduim.com"]
 ```
 
 ### Programming word `split`
 > Split [natural english meaning] dividing a particular object into two or more groups 
 
 In python and javascript we see this programming word `split`, normally this word is one of
-method of an `String`
+method of a `String` object
 
 ```python
 people = "Bob,Alice,James,John,Peter"
@@ -107,7 +107,7 @@ var names = people.split(',')
 console.log(names)   //result is ['Bob', 'Alice', 'James, John, Peter] 
 ``` 
 
-> **Conclusion there are thousand of words in any programming language api, we can't dig into all of them, but 
+> *Conclusion there are thousand of words in any programming language api, we can't dig into all of them, but 
 knowing the meaning of this word in a natural english language form, can give you more
 insight on how this word were created by the programming language api authors and how to structured 
-them in the programming conventional way.**
+them in the programming language conventional way.*
