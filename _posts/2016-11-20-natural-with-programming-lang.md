@@ -2,8 +2,9 @@
 layout: post
 title: Why you should use natural english language to grasp some concept in any programming language
 comments: true
+share: true
 date:   2016-11-20
-categories: programming english python java javascript
+categories: general programming
 ---
 One might think why did the creators of different programming language, did not use
 natural language as a means of communicating to computers.

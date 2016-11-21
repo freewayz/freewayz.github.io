@@ -7,6 +7,9 @@ layout: default
      <a href="{{ site.url }}{{ post.url }}">{{ page.title }} </a>
      </h1>
   {{ content }}
+  {% if page.share %}
+    {% include share-page.html %}         
+  {% endif %}
 </div>
 
 {% if site.related_posts %}
