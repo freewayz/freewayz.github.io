@@ -99,13 +99,13 @@ method of a `String` object
 ```python
 people = "Bob,Alice,James,John,Peter"
 names = people.split(',')
-print name   # result is [Bob, Alice, James, John, Peter] 
+print name   # result is ['Bob', 'Alice', 'James', 'John', 'Peter'] 
 ``` 
 
 ```javascript
 var people = "Bob,Alice,James,John,Peter"
 var names = people.split(',')
-console.log(names)   //result is ['Bob', 'Alice', 'James, John, Peter] 
+console.log(names)   //result is ['Bob', 'Alice', 'James', 'John', 'Peter'] 
 ``` 
 
 > *Conclusion there are thousand of words in any programming language api, we can't dig into all of them, but 
