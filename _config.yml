@@ -3,10 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 # Permalinks
 permalink:        pretty
-comments:
-   provider: disqus
-disqus: 
-   short_name: freewayz-github-io
+
 # Setup
 title:            pitaside
 tagline:          'my thought on code'
@@ -18,10 +15,8 @@ author:
   name:           'Peter Edache'
   url:            https://github.com/freewayz
 
-paginate:         3
-
+paginate:         1
 gems: [jekyll-paginate]
-
 version:          1.0.0
 
 github:
