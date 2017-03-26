@@ -3,7 +3,7 @@ layout: post
 title: Gentle introduction to Django Web Framework
 comments: true
 share: true
-date:   2017-03-26
+date:   2017-03-25
 categories: python django web
 ---
 
