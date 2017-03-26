@@ -21,7 +21,7 @@ As such django follows the  MVT or MTV (Model View Template) pattern.
 
 
 # The MVT (Model View Template)
-![Django MVT]({{site.url}}/public/assets/images/django-in-a-nutshell.png "Project file")
+![Django MVT](/public/assets/images/django-in-a-nutshell.png "Project file")
 
 * Model : which tells how your data looks, simple how you represent your table structure in 
         any database system.
@@ -74,7 +74,7 @@ $ django-admin startproject firstapp
 ```
 > Our project structure should look like this now
 
-![project structure]({{site.url}}/public/assets/images/structure1.png "Project file")
+![project structure](/public/assets/images/structure1.png "Project file")
 
 ## What does this files means?
 - `manage.py` basically the power engine room for all django commands, from database maintenance, to administrative task]
@@ -103,7 +103,7 @@ INSTALLED_APPS = [
 ]
 ```
 Now our project structure should look like this
-![project structure2]({{site.url}}/public/assets/images/structure-2.png "Project file")
+![project structure2](/public/assets/images/structure-2.png "Project file")
 
 ## Start django server so we can start development
 
@@ -172,6 +172,6 @@ due to django project app structure.
 
 Now visit `127.0.0.1:8080/store`
 
-![Project Live]({{site.url}}/public/assets/images/success-store.png "Success store app")
+![Project Live](/public/assets/images/success-store.png "Success store app")
 
 Thanks. more info can be found on  [Django Website](https://www.djangoproject.com/) 
