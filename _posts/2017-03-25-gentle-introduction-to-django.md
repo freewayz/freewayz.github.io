@@ -7,7 +7,7 @@ date:   2017-03-25
 categories: python django web
 ---
 
-Django is a very high scalable Web Framework for perfectionist dead line.
+Django is a very high scalable web framework for perfectionist dead line.
 Having started learning django some years back, have found it to be the most complete web framework. (my personal opinion)
 
 ## Django web principle
@@ -66,7 +66,8 @@ $ django-admin startproject firstapp
 ```
 Our project structure should look like this now
 
-![project structure]({{ post.url }}/assets/images/structure-1.png)
+![project structure](/assets/images/structure1.png, "Project file")
+
 ## What does this files means?
 
 - manage.py [basically the power engine room for all django commands, from database maintenance, to administrative task]
