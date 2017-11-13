@@ -1,39 +1,64 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-# Permalinks
-permalink:        pretty
+# Site wide configuration
 
-# Setup
-title:            pitaside
-tagline:          'my thought on code'
-description:      'Creativity isnt a function of man possessing knowledge it is rather a function of knowledge possessing man'
-url:               https//freewayz.github.io
-baseurl:          ''
+title: pitaside
+locale: en_US
+description: my thought on code and life.
+# logo: site-logo.png
+search: true
+url: http://localhost:4000
 
-author:
-  name:           'Peter Edache'
-  url:            https://github.com/freewayz
+# Jekyll configuration
 
-paginate:         1
-gems: [jekyll-paginate]
-version:          1.0.0
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
-github:
-  repo:           https://github.com/freewayz
-social:
-  - icon:	twitter
-    url:	https://twitter.com/fr3wayz
-    desc: Twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
-    share_link: "&amp;url="
+# plugins:
+# #   - jekyll-sitemap
+# #   - jekyll-gist
+#   - jekyll-feed
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
-  - icon:	github
-    url:	https://github.com/freewayz
-    desc:	Find me on GitHub
-    share_url:
-    share_title:
-    share_link:
-
+# Site owner
+owner:
+  name: Peter Edache
+  avatar: bio-photo-2.jpg
+  email: fr33wayz at gmail dot com
+  disqus-shortname:
+  twitter: #fr3wayz
+  facebook: #username
+  github: #freewayz
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
