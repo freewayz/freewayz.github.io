@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding Progamiing"
+title: "Understanding Programming language as natural language"
 modified:
 categories: blog
 excerpt:
