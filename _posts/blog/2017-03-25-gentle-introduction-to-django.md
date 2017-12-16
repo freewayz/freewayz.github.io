@@ -5,8 +5,7 @@ modified:
 categories: blog
 excerpt:
 tags: ["python", "django", "web", "programming"]
-
-date: 2017-03-20T15:39:55-04:00
+date: 2017-03-25
 ---
 
 > Django is a very high scalable python web framework .
