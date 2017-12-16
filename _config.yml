@@ -5,6 +5,7 @@ locale: en_US
 description: my thought on code and life.
 # logo: site-logo.png
 search: true
+comments: true
 url: https://freewayz.github.io
 
 # Jekyll configuration
@@ -44,10 +45,10 @@ owner:
   name: Peter Edache
   avatar: bio-photo-2.jpg
   email: fr33wayz at gmail dot com
-  disqus-shortname:
-  twitter: #fr3wayz
+  disqus-shortname: pitaside
+  twitter: fr3wayz
   facebook: #username
-  github: #freewayz
+  github: freewayz
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username

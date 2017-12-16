@@ -5,7 +5,7 @@ modified:
 categories: blog
 excerpt:
 tags: ["python", "django", "web", "programming"]
-
+comments: true
 date: 2016-11-20
 ---
 
