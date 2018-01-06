@@ -8,7 +8,7 @@ comments: false
 
 ### Current role I play in life
 -  Developer @[Flexisaf Edusoft](flexiaf.com).
--  Resume ![project structure2](/images/Resume_Peter.pdf "Project file")
+-  [Resume](/images/Resume_Peter.pdf)
 
 > Favourite Zen 
 - Now is better than never
